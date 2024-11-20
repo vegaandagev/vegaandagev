@@ -1,5 +1,7 @@
 ## Hi there 👋 haha
 
+I'm interested in SCES, Topo, TNW, ML ...
+
 <!--
 **vegaandagev/vegaandagev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
